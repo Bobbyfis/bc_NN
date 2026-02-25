@@ -8,7 +8,7 @@ __pycache__/
 
 # data
 
-data/*
+project/data/*
 
 # Distribution / packaging
 .Python
