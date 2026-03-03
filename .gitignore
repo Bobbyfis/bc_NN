@@ -10,6 +10,8 @@ __pycache__/
 
 project/data/*
 project/lightning_logs/*
+*.pt
+*.pyc
 
 # Distribution / packaging
 .Python
